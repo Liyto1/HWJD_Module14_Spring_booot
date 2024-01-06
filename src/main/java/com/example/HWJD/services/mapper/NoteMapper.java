@@ -3,7 +3,7 @@ package com.example.HWJD.services.mapper;
 import com.example.HWJD.controller.response.CreateNoteRequest;
 import com.example.HWJD.controller.response.NoteResponse;
 import com.example.HWJD.controller.response.UpdateNoteRequest;
-import com.example.HWJD.controller.controller.data.entities.Note;
+import com.example.HWJD.data.entities.Note;
 import com.example.HWJD.services.dto.NoteDto;
 import org.springframework.stereotype.Component;
 

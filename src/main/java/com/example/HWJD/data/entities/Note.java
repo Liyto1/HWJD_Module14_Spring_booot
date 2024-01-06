@@ -1,4 +1,4 @@
-package com.example.HWJD.controller.controller.data.entities;
+package com.example.HWJD.data.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

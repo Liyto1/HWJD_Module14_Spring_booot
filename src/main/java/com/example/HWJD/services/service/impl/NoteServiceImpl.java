@@ -1,7 +1,7 @@
 package com.example.HWJD.services.service.impl;
 
-        import com.example.HWJD.controller.controller.data.entities.Note;
-        import com.example.HWJD.controller.controller.data.repository.NoteRepository;
+        import com.example.HWJD.data.entities.Note;
+        import com.example.HWJD.data.repository.NoteRepository;
         import com.example.HWJD.services.dto.NoteDto;
         import com.example.HWJD.services.exception.NoteNotFoundException;
         import com.example.HWJD.services.service.NoteService;
